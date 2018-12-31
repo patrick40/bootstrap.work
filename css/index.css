@@ -1,0 +1,53 @@
+.jumbotron{
+    background-color:gray;
+background-size: cover;
+}
+
+h1{
+     color:white;
+}
+li{
+    float: right;
+    list-style-type: none;
+    overflow: hidden;  
+}
+ul{
+    list-style-type:none;
+ margin:0;
+ padding:0;
+ overflow:hidden;
+ background-color:black;
+ top:0;
+ 
+}
+ul li a{
+    color:white!important;
+    text-decoration: none;
+    padding: 10px 10px;
+
+}
+a:hover{
+    background-color:red;
+
+}
+.center{
+margin-left: 430px;
+
+}
+img{
+    width: 250px;
+height: 250px;
+
+}
+.tolk{
+    margin-left: 40%;
+}
+.map{
+    margin-left:100px;
+}
+/* form */
+
+.bg-warning{
+    border-radius: 10px;
+}
+  
